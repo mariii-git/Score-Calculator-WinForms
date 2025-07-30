@@ -1,0 +1,16 @@
+J:\New folder\score-calculator\score-calculator\bin\Debug\net8.0-windows\score-calculator.exe
+J:\New folder\score-calculator\score-calculator\bin\Debug\net8.0-windows\score-calculator.deps.json
+J:\New folder\score-calculator\score-calculator\bin\Debug\net8.0-windows\score-calculator.runtimeconfig.json
+J:\New folder\score-calculator\score-calculator\bin\Debug\net8.0-windows\score-calculator.dll
+J:\New folder\score-calculator\score-calculator\bin\Debug\net8.0-windows\score-calculator.pdb
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score_calculator.Form1.resources
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.csproj.GenerateResource.cache
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.GeneratedMSBuildEditorConfig.editorconfig
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.AssemblyInfoInputs.cache
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.AssemblyInfo.cs
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.csproj.CoreCompileInputs.cache
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.dll
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\refint\score-calculator.dll
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.pdb
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\score-calculator.genruntimeconfig.cache
+J:\New folder\score-calculator\score-calculator\obj\Debug\net8.0-windows\ref\score-calculator.dll
